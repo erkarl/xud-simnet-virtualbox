@@ -2,12 +2,12 @@
 A collection of virtualbox helpers to create a simnet environment for [xud](https://github.com/ExchangeUnion/xud).
 
 ## Install
-`wget -qO- https://raw.githubusercontent.com/erkarl/xud-deploy-virtualbox/master/install.sh | bash`
+`wget -qO- https://raw.githubusercontent.com/erkarl/xud-deploy-virtualbox/master/install.sh | bash && cd ~/xud-deploy`
 
 ## Choose an image
 Depenending on how low on the build process you want to go.
 
-### default (master)
+### default (master branch)
 A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) environment that has:
 * virtualbox extensions
 * security updates installed as of 05.11.2018
