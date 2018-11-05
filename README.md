@@ -2,7 +2,7 @@
 A collection of virtualbox helpers to create a simnet environment for [xud](https://github.com/ExchangeUnion/xud).
 
 ## Install
-`wget -qO- https://raw.githubusercontent.com/erkarl/xud-deploy/master/install.sh | bash`
+`wget -qO- https://raw.githubusercontent.com/erkarl/xud-deploy-virtualbox/master/install.sh | bash`
 
 ## Choose an image
 Depenending on how low on the build process you want to go.
