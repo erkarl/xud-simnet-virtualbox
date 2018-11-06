@@ -4,6 +4,8 @@ A collection of virtualbox helpers to create a simnet environment for [xud](http
 ## Install
 `wget -qO- https://raw.githubusercontent.com/erkarl/xud-simnet-virtualbox/master/install.sh | bash && cd ~/xud-simnet-virtualbox`
 
+The install script will clone the repo and download the default (master branch) image.
+
 ## Choose an image
 Depenending on how low on the build process you want to go.
 
