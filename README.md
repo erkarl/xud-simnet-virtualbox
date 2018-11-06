@@ -18,21 +18,21 @@ A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) e
 * go
 
 #### Usage
-`./start` - start the machine
+`./start.sh` - start the machine
 
-`./stop` - stop the machine
+`./stop.sh` - stop the machine
 
-`./clone new-clone-name` - clones a new machine named `new-clone-name`
+`./clone.sh new-clone-name` - clones a new machine named `new-clone-name`
 
-`./info` - get machine info
+`./info.sh` - get machine info
 
-`./delete` - deletes the machine
+`./delete.sh` - deletes the machine
 
-`./pause` - pause the machine
+`./pause.sh` - pause the machine
 
-`./resume` - resume the machine
+`./resume.sh` - resume the machine
 
-`./ssh` - ssh into the machine
+`./ssh.sh` - ssh into the machine
 
 TODO: Add automatic torrent download option.
 
