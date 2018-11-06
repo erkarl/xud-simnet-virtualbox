@@ -34,7 +34,7 @@ A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) e
 
 `./resume.sh` - resume the machine
 
-`./add-image.sh` - Downloads, extracts and registers an image defined in `.env`
+`./add-image.sh` - downloads, extracts and registers an image defined in `.env`
 
 TODO: Add automatic torrent download option.
 
