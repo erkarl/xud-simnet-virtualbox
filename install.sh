@@ -9,3 +9,4 @@ echo "Downloading xud-deploy to $INSTALL_DIR"
 mkdir -p $INSTALL_DIR
 cd $INSTALL_DIR || exit
 git clone $GITHUB_REPO $INSTALL_DIR
+./download-image.sh
