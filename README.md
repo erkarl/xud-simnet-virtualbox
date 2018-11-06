@@ -36,11 +36,12 @@ A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) e
 
 `./add-image.sh` - downloads, extracts and registers an image defined in `.env`
 
-TODO: Add automatic torrent download option.
-
-TODO: Verify binary.
-
 #### Default credentials
 Username: `iam`
 
 Password: `ubuntu`
+
+## TODOs
+TODO: Add automatic torrent download option.
+
+TODO: Verify binary.
