@@ -1,4 +1,4 @@
-# xud-deploy-virtualbox
+# xud-simnet-virtualbox
 A collection of virtualbox helpers to create a simnet environment for [xud](https://github.com/ExchangeUnion/xud).
 
 ## Install
