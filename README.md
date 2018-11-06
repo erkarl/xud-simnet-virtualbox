@@ -9,7 +9,6 @@ Depenending on how low on the build process you want to go.
 
 ### default (master branch)
 A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) environment that has:
-* virtualbox extensions
 * security updates installed as of 05.11.2018
 * git
 * make
