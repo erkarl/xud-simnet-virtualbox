@@ -20,6 +20,8 @@ A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) e
 #### Usage
 `./start.sh` - start the machine
 
+`./ssh.sh` - ssh into the machine
+
 `./stop.sh` - stop the machine
 
 `./clone.sh new-clone-name` - clones a new machine named `new-clone-name`
@@ -32,7 +34,7 @@ A barebone [Ubuntu Server 18.04.1 LTS](https://www.ubuntu.com/download/server) e
 
 `./resume.sh` - resume the machine
 
-`./ssh.sh` - ssh into the machine
+`./add-image.sh` - Downloads, extracts and registers an image defined in `.env`
 
 TODO: Add automatic torrent download option.
 
